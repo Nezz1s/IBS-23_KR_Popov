@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="metro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/metro_jar</output-path>
+    <root id="archive" name="metro.jar">
+      <element id="module-output" name="metro" />
+    </root>
+  </artifact>
+</component>
